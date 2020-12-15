@@ -1,3 +1,3 @@
 # lollapaloooza.github.io
 
-New project "NERDS"
+New project "XmA"
