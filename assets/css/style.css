@@ -67,7 +67,7 @@ hr {
 .intro__inner {
     width: 100%;
     max-width: 880px;
-    margin: 140px auto;
+    margin: 0 auto;
     text-align: center;
 }
 
